@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "status": true,
+    "problem": "Best Time To Buy and Sell Stock",
+    "difficulty": "Easy",
+    "topic": "Arrays",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+      "geeksForGeeks": "https://practice.geeksforgeeks.org/problems/stock-buy-and-sell-1587115621/1?utm_source=youtube&utm_medium=collab_fraz_websitelink&utm_campaign=stock-buy-and-sell"
+    }
+  },
+  {
+    "id": 2,
+    "status": false,
+    "problem": "Minimum Remove To Make Valid Parentheses",
+    "difficulty": "Medium",
+    "topic": "String",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/",
+      "geeksForGeeks": "https://practice.geeksforgeeks.org/problems/remove-invalid-parentheses/1?utm_source=youtube&utm_medium=collab_fraz_websitelink&utm_campaign=Remove+Invalid+Parentheses"
+    }
+  },
+  {
+    "id": 3,
+    "status": true,
+    "problem": "Convert Binary Number In A Linked ListTo Integer",
+    "difficulty": "Easy",
+    "topic": "Linked List",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/",
+      "geeksForGeeks": "https://practice.geeksforgeeks.org/problems/decimal-equivalent-of-binary-linked-list/1?utm_source=youtube&utm_medium=collab_fraz_websitelink&utm_campaign=decimal-equivalent-of-binary-linked-list"
+    }
+  },
+  {
+    "id": 4,
+    "status": false,
+    "problem": "Running Sum of 1d Array",
+    "difficulty": "Easy",
+    "topic": "Arrays",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/running-sum-of-1d-array/",
+      "geeksForGeeks": ""
+    }
+  },
+  {
+    "id": 5,
+    "status": false,
+    "problem": "Two Sum",
+    "difficulty": "Easy",
+    "topic": "Arrays",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/two-sum/",
+      "geeksForGeeks": "https://www.geeksforgeeks.org/given-an-array-a-and-a-number-x-check-for-pair-in-a-with-sum-as-x/"
+    }
+  },
+  {
+    "id": 6,
+    "status": false,
+    "problem": "Add Two Numbers",
+    "difficulty": "Medium",
+    "topic": "Linked List",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/add-two-numbers/",
+      "geeksForGeeks": "https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1"
+    }
+  },
+  {
+    "id": 7,
+    "status": false,
+    "problem": "Longest Substring Without Repeating Characters",
+    "difficulty": "Medium",
+    "topic": "String",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+      "geeksForGeeks": "https://practice.geeksforgeeks.org/problems/length-of-the-longest-substring3036/1"
+    }
+  },
+  {
+    "id": 8,
+    "status": false,
+    "problem": " Median of Two Sorted Arrays",
+    "difficulty": "Hard",
+    "topic": "Arrays",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+      "geeksForGeeks": "https://practice.geeksforgeeks.org/problems/median-of-2-sorted-arrays-of-different-sizes/1"
+    }
+  },
+  {
+    "id": 9,
+    "status": false,
+    "problem": "Longest Palindromic Substring",
+    "difficulty": "Medium",
+    "topic": "String",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/longest-palindromic-substring/",
+      "geeksForGeeks": "https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1"
+    }
+  },
+  {
+    "id": 10,
+    "status": false,
+    "problem": "Container With Most Water",
+    "difficulty": "Medium",
+    "topic": "Arrays",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/container-with-most-water/",
+      "geeksForGeeks": "https://practice.geeksforgeeks.org/problems/container-with-most-water0535/1"
+    }
+  }
+]
