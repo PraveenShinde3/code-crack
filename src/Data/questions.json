@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "status": true,
+    "status": false,
     "problem": "Best Time To Buy and Sell Stock",
     "difficulty": "Easy",
     "topic": "Arrays",
@@ -23,7 +23,7 @@
   },
   {
     "id": 3,
-    "status": true,
+    "status": false,
     "problem": "Convert Binary Number In A Linked ListTo Integer",
     "difficulty": "Easy",
     "topic": "Linked List",
@@ -107,6 +107,39 @@
     "links": {
       "leetcode": "https://leetcode.com/problems/container-with-most-water/",
       "geeksForGeeks": "https://practice.geeksforgeeks.org/problems/container-with-most-water0535/1"
+    }
+  },
+  {
+    "id": 12,
+    "status": false,
+    "problem": "Two Sum II - Input Array Is Sorted",
+    "difficulty": "Medium",
+    "topic": "Arrays",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+      "geeksForGeeks": ""
+    }
+  },
+  {
+    "id": 13,
+    "status": false,
+    "problem": "3 Sum",
+    "difficulty": "Medium",
+    "topic": "Arrays",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/3sum/",
+      "geeksForGeeks": ""
+    }
+  },
+  {
+    "id": 14,
+    "status": false,
+    "problem": "Reverse the array",
+    "difficulty": "Easy",
+    "topic": "Arrays",
+    "links": {
+      "leetcode": "https://leetcode.com/problems/3sum/",
+      "geeksForGeeks": ""
     }
   }
 ]
