@@ -33,6 +33,7 @@ const DsaRoadMap = () => {
       className="py-20 px-10"
     >
       <div className="container mx-auto ">
+        <h1 className="text-2xl font-bold pb-10">DSA Roadmap</h1>
         <div class="p-5 mb-4 border-3 border-black bg-gray-50 ">
           <p class="text-lg font-semibold text-gray-900 dark:text-white">
             Choose a programming language
